@@ -2,7 +2,6 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
-  <!-- Hotel from the diagram -->
   <Hotel Rating="4.2">
     <Name>Marina Bay Sands</Name>
     <Phone>+65 6688 8868</Phone>
@@ -12,7 +11,7 @@
       <Street>Bayfront Ave</Street>
       <City>Singapore</City>
       <State>Central</State>
-      <Zip>018956</Zip>
+      <Zip>100001</Zip>
     </Address>
   </Hotel>
 
@@ -24,7 +23,7 @@
       <Street>Portland Pl</Street>
       <City>London</City>
       <State>England</State>
-      <Zip>W1B 1JA</Zip>
+      <Zip>100002</Zip>
     </Address>
   </Hotel>
 
@@ -45,11 +44,11 @@
     <Name>Park Hyatt Tokyo</Name>
     <Phone>+81 3-5322-1234</Phone>
     <Address NearstAirport="Narita Airport">
-      <Number>3-7-1</Number>
+      <Number>3</Number>
       <Street>Nishi-Shinjuku</Street>
       <City>Tokyo</City>
       <State>Tokyo</State>
-      <Zip>163-1055</Zip>
+      <Zip>1631055</Zip>
     </Address>
   </Hotel>
 
@@ -74,7 +73,7 @@
       <Street>Jumeirah Street</Street>
       <City>Dubai</City>
       <State>Dubai</State>
-      <Zip>00000</Zip>
+      <Zip>12345</Zip>
     </Address>
   </Hotel>
 
@@ -94,7 +93,7 @@
     <Name>The Oberoi Udaivilas</Name>
     <Phone>+91 294 2433300</Phone>
     <Address NearstAirport="Maharana Pratap Airport">
-      <Number>Haridasji Ki Magri</Number>
+      <Number>1</Number>
       <Street>Lake Pichola</Street>
       <City>Udaipur</City>
       <State>Rajasthan</State>
@@ -110,7 +109,7 @@
       <Street>Piazza della Trinità dei Monti</Street>
       <City>Rome</City>
       <State>Lazio</State>
-      <Zip>00187</Zip>
+      <Zip>187</Zip>
     </Address>
   </Hotel>
 
@@ -122,7 +121,7 @@
       <Street>Avenida Atlântica</Street>
       <City>Rio de Janeiro</City>
       <State>RJ</State>
-      <Zip>22021-001</Zip>
+      <Zip>22021001</Zip>
     </Address>
   </Hotel>
 
